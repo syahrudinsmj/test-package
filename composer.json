@@ -9,6 +9,11 @@
         }
     ],
     "require": {},
+    "autoload": {
+        "psr-4": {
+            "Codeucok\\Minicalculator\\": "src/"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
