@@ -1,0 +1,12 @@
+{
+    "name": "codeucok/minicalculator",
+    "description": "example using creating packages",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Syahrudinsmj",
+            "email": "syahrudinsmj@gmail.com"
+        }
+    ],
+    "require": {}
+}
